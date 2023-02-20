@@ -1,4 +1,4 @@
-#include <stdic.h>
+#include <stdio.h>
 /**
  * main - Entry
  *
