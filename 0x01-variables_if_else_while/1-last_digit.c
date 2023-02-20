@@ -2,12 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - This function assigns a new value to
- * variable n each time it is executed.The
- * program should print whether the number stored
- * in variable n is positive or negative.
+ * main - Entry
  *
- * Return: 0 on success, non-zero on failure
+ * Return: 0 
  */
 int main(void)
 {
@@ -23,10 +20,10 @@ int main(void)
 	{
 	printf("%d and is greater than 5\n", last_digit);
 	}
- 	else if (last_digit == 0)
- 	{
+	else if (last_digit == 0)
+	{
  	printf("%d and is 0\n", last_digit);
- 	}
+	}
 	else
 	{
 	printf("%d and is less than 6 and not 0\n", last_digit);
