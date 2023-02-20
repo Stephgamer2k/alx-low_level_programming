@@ -4,7 +4,7 @@
 /**
  * main - Entry
  *
- * Return: 0 
+ * Return: 0
  */
 int main(void)
 {
@@ -22,7 +22,7 @@ int main(void)
 	}
 	else if (last_digit == 0)
 	{
- 	printf("%d and is 0\n", last_digit);
+	printf("%d and is 0\n", last_digit);
 	}
 	else
 	{
