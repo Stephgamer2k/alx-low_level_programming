@@ -3,8 +3,6 @@
 #include <stdio.h>
 /**
  * main - Entry
- * 
- * 
  *
  * Return: 0 
  */
